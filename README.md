@@ -1,11 +1,4 @@
 ## Hi there 👋
-My name is James, an experienced software engineer.
+My name is James, a software engineer with over 7 years of experience in web, mobile, AI and blockchain technologies.
 
-- 🔭 I’m currently working on AI training platforms.
-- 🌱 I’m currently learning AI technologies.
-- 👯 I’m looking to collaborate on AI training.
-- 🤔 I’m looking for help with collaboration
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I've been working on AI platforms for improving AI ability.
