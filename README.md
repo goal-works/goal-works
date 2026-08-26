@@ -16,4 +16,4 @@ AI-focused software engineer building evaluation systems, agent observability, d
 - TypeScript and Python product engineering
 - Next.js, FastAPI, PostgreSQL, Redis, and Docker
 
-The full case studies, architecture decisions, screenshots, and validation evidence are maintained in the **[portfolio repository](https://github.com/goal-works/portfolio)**.
+Explore the full case studies, architecture decisions, screenshots, and validation evidence at **[goal-works.github.io](https://goal-works.github.io/)**. The implementation is available in the **[portfolio repository](https://github.com/goal-works/portfolio)**.
