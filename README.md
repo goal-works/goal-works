@@ -1,6 +1,19 @@
-## Hi there 👋
-My name is James, a software engineer with over 7 years of experience in web, mobile, AI and blockchain technologies.
+# James
 
-I've been working on AI platforms for improving AI ability.
+AI-focused software engineer building evaluation systems, agent observability, deterministic AI product workflows, and production-oriented SaaS foundations.
 
-As you know, there are still many problems that humans can solve better than AI. That’s where this kind of work becomes valuable. Developers and other experts create challenging problems, work out the right solutions, and provide high-quality examples that can be used to evaluate and improve AI systems.
+## Selected engineering work
+
+- **[EvalForge](https://github.com/goal-works/evalforge)** — reproducible benchmark authoring, asynchronous evaluation, configurable scoring, and failure analysis.
+- **[AgentScope](https://github.com/goal-works/agentscope)** — dependency-free agent tracing, hierarchical execution evidence, deterministic diagnostics, and trace comparison.
+- **[EstateAI](https://github.com/goal-works/estate-ai)** — synthetic property intelligence with deterministic financial analysis and constrained structured explanation.
+- **[LaunchKit AI](https://github.com/goal-works/launchkit-ai)** — multi-tenant SaaS infrastructure with server-enforced roles, one-time secrets, metering, audit evidence, and signed webhook jobs.
+
+## Current focus
+
+- AI evaluation and agent reliability
+- Inspectable, deterministic system behavior
+- TypeScript and Python product engineering
+- Next.js, FastAPI, PostgreSQL, Redis, and Docker
+
+The full case studies, architecture decisions, screenshots, and validation evidence are maintained in the **[portfolio repository](https://github.com/goal-works/portfolio)**.
